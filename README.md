@@ -10,7 +10,7 @@ My focus is always on creating smooth user experiences, scalable architectures, 
 - I enjoy working on both frontend and backend — full-stack flow is my comfort zone.
 - I like mechanical keyboards and customizing my setup ⌨️.
 - I learn new technologies ridiculously fast.
-- 
+
 ---
 
 ## Tech I Use
