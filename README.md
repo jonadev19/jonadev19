@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**jonadev19/jonadev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jona**, a multiplatform software developer based in Yucatán, México 🇲🇽.
 
-Here are some ideas to get you started:
+I love building clean, modern and fast applications — from mobile apps with **Flutter + Flame**, to web platforms using **Angular, Node.js and Supabase**.  
+My focus is always on creating smooth user experiences, scalable architectures, and well-structured codebases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+
+- I enjoy working on both frontend and backend — full-stack flow is my comfort zone.
+- I like mechanical keyboards and customizing my setup ⌨️.
+- I learn new technologies ridiculously fast.
+- 
+---
+
+## Tech I Use
+
+**Frontend:** Angular, TypeScript, Tailwind, Flutter, Flame  
+**Backend:** Node.js, Express, Supabase (Edge Functions, RLS), Firebase  
+**Tools:** Git, Figma, Docker, Postman  
+**Other:** Game Dev, Clean Architecture, UI/UX
+
+--- 
