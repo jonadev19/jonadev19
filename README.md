@@ -2,7 +2,7 @@
 
 I'm **Jona**, a multiplatform software developer based in Yucatán, México 🇲🇽.
 
-I love building clean, modern and fast applications — from mobile apps with **Flutter + Flame**, to web platforms using **Angular, Node.js and Supabase**.  
+I love building clean, modern and fast applications — from mobile apps with **React Naitve + Expo**, to web platforms using **Angular, Node.js and Supabase**.  
 My focus is always on creating smooth user experiences, scalable architectures, and well-structured codebases.
 
 ## Fun Facts
