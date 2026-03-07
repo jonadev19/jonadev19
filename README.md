@@ -1,12 +1,12 @@
 Hey there! 💻
 I’m [Jonathan](https://github.com/jonadev19), a Software Developer engineer based in Mexico.
 
-I design and build whatever I can imagine.
+I build REST APIs, design databases, and ship things that actually work in production.
+If an idea pops into my head, chances are I'll build it — from a Maya language learning 
+platform to an esports tournament system.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
+**Main stack:** Python · Django · Node.js · TypeScript · PostgreSQL · MongoDB  
+**Currently exploring:** AI agents and LLM integrations  
+**Open to:** Remote backend roles 🌎
 
-My main tech stack is angular, typescript, tailwind, and expressjs. My favorite tools are Cursor, Figma.
-
-Fun Facts:
-I have one cats
-I don’t like coffee or tea
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jonadev20/)
