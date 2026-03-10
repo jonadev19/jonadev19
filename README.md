@@ -1,7 +1,7 @@
 Hey there! 💻
 I’m [Jonathan](https://github.com/jonadev19), a Software Developer engineer based in Mexico.
 
-I build REST APIs, design databases, and ship things that actually work in production.
+🧠I build REST APIs, design databases, and ship things that actually work in production.
 If an idea pops into my head, chances are I'll build it.
 
 💻 Hard Skills:
